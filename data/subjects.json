@@ -1,0 +1,6 @@
+[
+  { "slug": "lap-trinh-web-nang-cao", "name": "Lập trình Web nâng cao", "teacher": "Ngô Văn Nhận" },
+  { "slug": "co-so-du-lieu", "name": "Cơ sở dữ liệu", "teacher": "Giảng viên CSDL" },
+  { "slug": "mang-may-tinh", "name": "Mạng máy tính", "teacher": "Giảng viên Mạng" },
+  { "slug": "tieng-anh-chuyen-nganh", "name": "Tiếng Anh chuyên ngành", "teacher": "Giảng viên Tiếng Anh" }
+]

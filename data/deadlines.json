@@ -1,0 +1,14 @@
+[
+  { "id": "1", "subjectSlug": "lap-trinh-web-nang-cao", "title": "BTVN Buổi 5: Tối ưu hiệu năng React", "description": "Đo Lighthouse trước/sau, áp dụng ít nhất 2 kỹ thuật tối ưu.", "dueDate": "2026-11-05T23:59:00+07:00" },
+  { "id": "2", "subjectSlug": "lap-trinh-web-nang-cao", "title": "BTVN Buổi 6: Kiểm thử Frontend", "description": "Viết ≥ 10 test, coverage ≥ 70%.", "dueDate": "2026-11-12T23:59:00+07:00" },
+  { "id": "3", "subjectSlug": "lap-trinh-web-nang-cao", "title": "BTTH 3: Class Deadline Hub", "description": "Xây cổng deadline bằng Next.js, NextAuth, Middleware.", "dueDate": "2026-11-20T23:59:00+07:00" },
+  { "id": "4", "subjectSlug": "lap-trinh-web-nang-cao", "title": "Đồ án cuối kỳ: nộp khung dự án", "description": "Khung dự án Next.js cho đồ án nhóm.", "dueDate": "2026-12-01T23:59:00+07:00" },
+  { "id": "5", "subjectSlug": "co-so-du-lieu", "title": "Bài tập chuẩn hoá dữ liệu", "description": "Chuẩn hoá lược đồ đến 3NF.", "dueDate": "2026-11-03T23:59:00+07:00" },
+  { "id": "6", "subjectSlug": "co-so-du-lieu", "title": "Báo cáo thiết kế ERD", "description": "Nộp ERD và lược đồ quan hệ.", "dueDate": "2026-11-15T23:59:00+07:00" },
+  { "id": "7", "subjectSlug": "co-so-du-lieu", "title": "Kiểm tra giữa kỳ CSDL", "description": "Thi trên lớp, nội dung chương 1–4.", "dueDate": "2026-11-25T08:00:00+07:00" },
+  { "id": "8", "subjectSlug": "mang-may-tinh", "title": "Lab Wireshark", "description": "Bắt gói tin HTTP/DNS và nộp báo cáo.", "dueDate": "2026-10-30T23:59:00+07:00" },
+  { "id": "9", "subjectSlug": "mang-may-tinh", "title": "Bài tập chia mạng con (subnetting)", "description": "Làm 10 bài chia subnet.", "dueDate": "2026-11-08T23:59:00+07:00" },
+  { "id": "10", "subjectSlug": "mang-may-tinh", "title": "Dự án mô phỏng Packet Tracer", "description": "Dựng mô hình mạng doanh nghiệp nhỏ.", "dueDate": "2026-12-05T23:59:00+07:00" },
+  { "id": "11", "subjectSlug": "tieng-anh-chuyen-nganh", "title": "Bài thuyết trình nhóm", "description": "Thuyết trình 10 phút về một công nghệ mới.", "dueDate": "2026-11-18T23:59:00+07:00" },
+  { "id": "12", "subjectSlug": "tieng-anh-chuyen-nganh", "title": "Bài viết báo cáo kỹ thuật", "description": "Viết 500 từ bằng tiếng Anh.", "dueDate": "2026-10-25T23:59:00+07:00" }
+]
